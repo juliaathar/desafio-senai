@@ -40,6 +40,9 @@ body {
     width: 356px;
     height: 465px;
 
+    display: grid;
+    align-items: center;
+
     position: relative;
 
     left: 907px;
